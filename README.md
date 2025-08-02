@@ -6,7 +6,7 @@ A simple contact manager built with **React** and **Firebase Firestore**, enabli
 
 ## 📸 Screenshot
 
-![Site Preview](site.png)
+![Site Preview](./site.png)
 
 ---
 
